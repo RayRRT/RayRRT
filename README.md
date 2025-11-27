@@ -5,7 +5,7 @@ Senior Adversarial Engineer with **+6 years** of experience in offensive securit
 <p>
   <a href="https://rayrt.gitlab.io/"><img src="https://img.shields.io/badge/📝_Blog-rayrt.gitlab.io-black?style=for-the-badge" alt="Blog"/></a>
   <a href="https://twitter.com/_RayRT"><img src="https://img.shields.io/badge/Twitter-@__RayRT-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="[https://www.linkedin.com/in/TU-USUARIO/](https://www.linkedin.com/in/ra%C3%BAlredondo/)](https://www.linkedin.com/in/ra%C3%BAlredondo/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ## About Me
