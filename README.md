@@ -13,7 +13,7 @@ Senior Adversarial Engineer with **+6 years** of experience in offensive securit
 🔴 Senior Adversarial Engineer simulating real-world threats and APT tactics  
 🎓 Associate Teacher for Active Directory Pentesting at university level  
 ✍️ Security researcher and technical writer  
-👥 Member of **EVILCORP\Domain Fathers** (si tienes algún grupo/comunidad)
+👥 Member of **EVILCORP\Domain Fathers**
 
 ## Expertise
 
@@ -45,5 +45,5 @@ Check out my blog for deep dives into offensive security:
 ---
 
 <p align="center">
-  <i>"Assume breach, verify everything"</i>
+  <i>"This is fine"</i>
 </p>
