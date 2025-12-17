@@ -21,7 +21,7 @@ Senior Adversarial Engineer with **+6 years** of experience in offensive securit
 |:--|:--|:--|
 | 🎯 Red Team & Purple Team | ☁️ AWS / GCP / Azure | 🛡️ EDR Evasion |
 | 🔑 Active Directory Attacks | 📧 Microsoft 365 | 🦠 Malware Development |
-| 🎫 Kerberos & ADCS Abuse | 🔐 Identity Providers | 🤖 AI Red Teaming |
+| 🎫 Kerberos | 🔐 Identity Providers | 🤖 AI Red Teaming |
 | 🕸️ Web Application Security | | 🎭 Social Engineering |
 
 ## Certifications
