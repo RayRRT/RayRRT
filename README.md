@@ -1,4 +1,4 @@
-# Hey, I'm Raúl 👋
+# Hey, I'm Raúl 
 
 Senior Adversarial Engineer with **+6 years** of experience in offensive security, specialized in Red Team operations, Active Directory attacks, EDR evasion, and cloud security.
 
