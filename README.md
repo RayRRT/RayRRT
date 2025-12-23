@@ -10,19 +10,19 @@ Senior Adversarial Engineer with **+6 years** of experience in offensive securit
 
 ## About Me
 
-🔴 Senior Adversarial Engineer simulating real-world threats and APT tactics  
-🎓 Associate Teacher for Active Directory Pentesting at university level  
-✍️ Security researcher and technical writer  
-👥 Member of **EVILCORP\Domain Fathers**
+Senior Adversarial Engineer simulating real-world threats and APT tactics  
+Associate Teacher for Active Directory Pentesting at university level  
+Security researcher and technical writer  
+Member of **EVILCORP\Domain Fathers**
 
 ## Expertise
 
 | Offensive Operations | Cloud & Identity | Research & Dev |
 |:--|:--|:--|
-| 🎯 Red Team & Purple Team | ☁️ AWS / GCP / Azure | 🛡️ EDR Evasion |
-| 🔑 Active Directory Attacks | 📧 Microsoft 365 | 🦠 Malware Development |
-| 🎫 Kerberos | 🔐 Identity Providers | 🤖 AI Red Teaming |
-| 🕸️ Web Application Security | | 🎭 Social Engineering |
+| Red Team & Purple Team | ☁️ AWS / GCP / Azure | 🛡️ EDR Evasion |
+| Active Directory Attacks | 📧 Microsoft 365 | 🦠 Malware Development |
+| Kerberos | 🔐 Identity Providers | 🤖 AI Red Teaming |
+| Web Application Security | | 🎭 Social Engineering |
 
 ## Certifications
 
@@ -37,10 +37,10 @@ Senior Adversarial Engineer with **+6 years** of experience in offensive securit
 
 Check out my blog for deep dives into offensive security:
 
-- 📜 [Kerberos Attack Series](https://rayrt.gitlab.io/) - From basics to delegation abuse
-- 🎭 [AD ACL Exploitation](https://rayrt.gitlab.io/posts/The-Phantom-Menace-Exposing-hidden-risks-through-ACLs-in-Active-Directory/) - Hidden privilege escalation paths
-- 📜 [ADCS Abuse](https://rayrt.gitlab.io/posts/Active-Directory-Certificate-Services-Abuse/) - Certificate services attacks
-- ☁️ [AWS Pentesting Cheatsheet](https://rayrt.gitlab.io/posts/AWS-Pentest-Cheatsheet/) - Cloud enumeration & exploitation
+- [Kerberos Attack Series](https://rayrt.gitlab.io/) - From basics to delegation abuse
+- [AD ACL Exploitation](https://rayrt.gitlab.io/posts/The-Phantom-Menace-Exposing-hidden-risks-through-ACLs-in-Active-Directory/) - Hidden privilege escalation paths
+- [ADCS Abuse](https://rayrt.gitlab.io/posts/Active-Directory-Certificate-Services-Abuse/) - Certificate services attacks
+- [AWS Pentesting Cheatsheet](https://rayrt.gitlab.io/posts/AWS-Pentest-Cheatsheet/) - Cloud enumeration & exploitation
 
 ---
 
